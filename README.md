@@ -1,84 +1,81 @@
-<!-- ═══════════════ ROYAL NISHANT · PROFILE README ═══════════════ -->
+<!-- Royal Nishant | GitHub Profile -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:38BDF8,45:2563EB,100:1D4ED8&text=ROYAL%20NISHANT&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Building%20ideas%20into%20digital%20experiences&descSize=16&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0EA5E9,35:2563EB,70:60A5FA,100:DBEAFE&text=ROYAL%20NISHANT&fontColor=FFFFFF&fontSize=54&fontAlignY=42&desc=Curiosity%20%E2%80%A2%20Creativity%20%E2%80%A2%20Code&descSize=18&descAlignY=62&animation=fadeIn" />
 
-<a href="https://github.com/royalnishant47">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Hey%2C+welcome+to+my+GitHub!;Exploring+Web+Development+%26+APIs;Creating%2C+learning%2C+and+building." alt="Typing SVG" />
-</a>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/CREATIVE-IDEAS-DBEAFE?style=for-the-badge&labelColor=EFF6FF&color=BFDBFE" />
-  <img src="https://img.shields.io/badge/WEB-PROJECTS-DBEAFE?style=for-the-badge&labelColor=EFF6FF&color=BFDBFE" />
-  <img src="https://img.shields.io/badge/API-EXPLORATION-DBEAFE?style=for-the-badge&labelColor=EFF6FF&color=BFDBFE" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Exploring+the+world+of+web+and+APIs;Ideas+today.+Projects+tomorrow.+%E2%9C%A8" alt="Animated introduction" />
 
-[![GitHub followers](https://img.shields.io/github/followers/royalnishant47?style=social)](https://github.com/royalnishant47?tab=followers)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=royalnishant47&style=flat&color=2563EB&label=PROFILE+VIEWS)](https://github.com/royalnishant47)
+<br/>
+
+<a href="https://github.com/royalnishant47?tab=followers"><img src="https://img.shields.io/github/followers/royalnishant47?label=Followers&style=for-the-badge&logo=github&color=2563EB&labelColor=EFF6FF" alt="GitHub followers"/></a>
+<a href="https://github.com/royalnishant47"><img src="https://komarev.com/ghpvc/?username=royalnishant47&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/></a>
 
 </div>
 
 ---
 
-## 👨‍🚀 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-Hey! I'm **Royal Nishant**.
+## 👋 A little about me
 
-I enjoy exploring technology, experimenting with web projects, and turning ideas into working digital experiences.
+I'm **Royal Nishant** — a curious builder who enjoys exploring technology and creating useful things on the web.
 
-- 🔭 Exploring web projects and API-based ideas
-- 🌱 Learning through experimentation and hands-on building
-- 💡 Interested in creative interfaces and useful tools
-- 🤝 Always happy to connect with fellow builders
+- 🚀 Exploring web development and API-based projects
+- 🧩 Enjoy experimenting with ideas and interfaces
+- 📚 Learning by building, testing, and improving
+- 🤝 Open to meeting creative developers and makers
 
----
+</td>
+<td width="42%" align="center" valign="middle">
 
-## ✨ Projects I'm Working Around
+<img src="https://github-readme-stats.vercel.app/api?username=royalnishant47&show_icons=true&hide_border=true&bg_color=F0F9FF&title_color=1D4ED8&icon_color=0284C7&text_color=334155&rank_icon=github" width="100%" alt="GitHub stats"/>
+
+</td>
+</tr>
+</table>
+
+## 🚀 Featured work
 
 <div align="center">
 
 <a href="https://github.com/royalnishant47/Myfreehosting1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=royalnishant47&repo=Myfreehosting1&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=334155&icon_color=2563EB" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=royalnishant47&repo=Myfreehosting1&hide_border=true&bg_color=F0F9FF&title_color=1D4ED8&text_color=334155&icon_color=0284C7" width="49%" alt="Myfreehosting1 repository"/>
 </a>
 <a href="https://github.com/royalnishant47/clone-apis1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=royalnishant47&repo=clone-apis1&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=334155&icon_color=2563EB" />
-</a>
-<a href="https://github.com/royalnishant47/Design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=royalnishant47&repo=Design&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=334155&icon_color=2563EB" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=royalnishant47&repo=clone-apis1&hide_border=true&bg_color=F0F9FF&title_color=1D4ED8&text_color=334155&icon_color=0284C7" width="49%" alt="clone-apis1 repository"/>
 </a>
 
 </div>
 
----
-
-## 📈 GitHub at a Glance
+## 📊 The GitHub activity corner
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=royalnishant47&show_icons=true&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&icon_color=2563EB&text_color=334155&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royalnishant47&layout=compact&hide_border=true&bg_color=EFF6FF&title_color=1D4ED8&text_color=334155" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royalnishant47&layout=donut-vertical&hide_border=true&bg_color=F0F9FF&title_color=1D4ED8&text_color=334155" height="180" alt="Most used languages"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=royalnishant47&hide_border=true&background=F0F9FF&ring=2563EB&fire=0EA5E9&currStreakLabel=1D4ED8&sideLabels=334155&dates=64748B&currStreakNum=1E3A8A&sideNums=1E3A8A" height="180" alt="GitHub contribution streak"/>
+
 </div>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=royalnishant47&hide_border=true&background=EFF6FF&ring=2563EB&fire=0EA5E9&currStreakLabel=1D4ED8&sideLabels=334155&dates=64748B&currStreakNum=1E3A8A&sideNums=1E3A8A" />
-</div>
-
----
-
-## 🌐 Find Me
+## 💬 Let's connect
 
 <div align="center">
 
 <a href="https://github.com/royalnishant47">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-Explore%20my%20work-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
 <br/><br/>
 
-**Thanks for stopping by!** 💙  
-*Keep learning. Keep creating. Keep moving forward.*
+**Thanks for visiting my profile!** 💙
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:2563EB,100:38BDF8&height=120&section=footer" />
+*Stay curious. Build boldly. Keep growing.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:DBEAFE,45:60A5FA,100:2563EB"/>
 
 </div>
